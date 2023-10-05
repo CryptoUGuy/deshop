@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body,
+div[data-rk] {
+    height: 100%;
+}
